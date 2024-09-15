@@ -1,2 +1,1 @@
-# shared-lab
 Welcome!
