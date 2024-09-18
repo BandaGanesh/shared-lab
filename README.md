@@ -12,3 +12,5 @@ python3 -m usecases.main
 cd ./python_example
 pytest
 ```
+
+Have fun coding!.
