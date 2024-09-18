@@ -13,4 +13,4 @@ cd ./python_example
 pytest
 ```
 
-Have fun coding!.
+Have fun coding!
